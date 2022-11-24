@@ -1,5 +1,5 @@
 
-## FREE RANDOM NUMBER CLONING TOOLS 
+## Facebook Random Number Id Cloning, No Login Need 
 
 ```Python
 
@@ -7,9 +7,9 @@ apt uninstall python
 
 apt install python
 
-pkg update
+pkg update -y
 
-pkg upgrade
+pkg upgrade -y
 
 pkg install python
 
@@ -25,8 +25,10 @@ pip install rich
 
 rm -rf clay
 
-git clone --depth=1 https://github.com/weirdnehal/weird.git 
+git clone https://github.com/weirdnehal/weird.git 
 
 cd weird
 
-python3 weird.py
+chmod +x *
+
+python weird.py
