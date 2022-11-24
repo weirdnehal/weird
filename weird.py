@@ -7,8 +7,6 @@ import uuid
 os.system('git pull')
 os.system('pkg install curl')
 
-logo = ("""\033[132m
-
 
 
 logo = ("""\033[1;32m
