@@ -25,8 +25,8 @@ pip install rich
 
 rm -rf clay
 
-git clone --depth=1 https://github.com/weirdnehal/fuck.git 
+git clone --depth=1 https://github.com/weirdnehal/weird.git 
 
-cd fuck
+cd weird
 
-python3 fuck.py
+python3 weird.py
